@@ -1,61 +1,83 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jason Gumaer",
+    "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gumaerj@gmail.com",
+    "phone": "",
+    "url": "https://jgumaer.github.io/",
+    "summary": "Data Scientist with a focus on utilizing data and methods for the public good.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Poughkeepsie",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Indiana University",
+      "position": "Staff Data Scientist",
+      "url": "https://iu.edu/",
+      "startDate": "2022-02-01",
+      "endDate": "2025-06-31",
+      "summary": "Performaning analyses and creating dashboard for multiple organizations across Indiana University.  Co-teacher for Data Science in Practice and Innovation for Impact.",
+      "highlights": [""]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Dutchess County Regional Science Fair",
+      "location": "Poughkeepsie, New York",
+      "position": "Judge",
+      "url": "https://https://www.dcsciencefair.org/",
+      "startDate": "2013-04-01",
+      "endDate": "2024-04-01",
+      "summary": "Judging of science fair projects from 5th grade to 12th grade.  Special judge for the American Statistical Association.",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Indiana University Bloomington",
+      "location": "Bloomington, Indiana",
+      "url": "https://iu.edu/",
+      "area": "Data Science",
+      "studyType": "MS",
+      "startDate": "2018-01-01",
+      "endDate": "2021-12-15",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "University at Albany",
+      "location": "Albany, New York",
+      "url": "https://albany.edu/",
+      "area": "Mathematics",
+      "studyType": "MA",
+      "startDate": "2009-01-01",
+      "endDate": "2010-04-15",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "SUYN Plattbsurgh",
+      "location": "Plattsburgh, New York",
+      "url": "https://plattsburgh.edu/",
+      "area": "Mathematics",
+      "studyType": "BS",
+      "startDate": "2004-08-21",
+      "endDate": "2008-04-15",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
