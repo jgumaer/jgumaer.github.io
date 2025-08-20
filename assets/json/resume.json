@@ -29,7 +29,8 @@
       "url": "https://iu.edu/",
       "startDate": "2022-02-01",
       "endDate": "2025-06-31",
-      "summary": "Performaning analyses and creating dashboard for multiple organizations across Indiana University.  Co-teacher for Data Science in Practice and Innovation for Impact."
+      "summary": "Performaning analyses and creating dashboard for multiple organizations across Indiana University.  Co-teacher for Data Science in Practice and Innovation for Impact.",
+      "highlights": []
     },
     {
       "name": "Dutchess Community College",
@@ -37,7 +38,8 @@
       "url": "https://www.sunydutchess.edu/",
       "startDate": "2010-08-20",
       "endDate": "2021-08-20",
-      "summary": "Teaching all levels of undegraduate mathematics ranging from algebra and statistics to the calculus sequence, differential equations, and discrete mathematics."
+      "summary": "Teaching all levels of undegraduate mathematics ranging from algebra and statistics to the calculus sequence, differential equations, and discrete mathematics.",
+      "highlights": []
     },
     {
       "name": "Dutchess Community College",
@@ -45,7 +47,8 @@
       "url": "https://www.sunydutchess.edu/",
       "startDate": "2017-01-01",
       "endDate": "2020-08-01",
-      "summary": "Responsible for the recruitment of students, the assessment, and the certification of the mathematics degree program."
+      "summary": "Responsible for the recruitment of students, the assessment, and the certification of the mathematics degree program.",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -70,7 +73,7 @@
       "startDate": "2018-01-01",
       "endDate": "2021-12-15",
       "score": "",
-      "courses": [""]
+      "courses": ["Applied Machine Learning", "Data Visualization", "Optimization and Simulation", "Advanced Database Technologies", "Data Science Consulting"]
     },
     {
       "institution": "University at Albany",
@@ -81,7 +84,7 @@
       "startDate": "2009-01-01",
       "endDate": "2010-04-15",
       "score": "",
-      "courses": [""]
+      "courses": ["Nonlinear Programming", "Complex Analysis", "Topology", "Number Theory", "Actuarial Life Contingencies"]
     },
     {
       "institution": "SUYN Plattbsurgh",
@@ -92,14 +95,12 @@
       "startDate": "2004-08-21",
       "endDate": "2008-04-15",
       "score": "",
-      "courses": [""]
+      "courses": []
     }
   ],
   "skills": [
     {
       "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
