@@ -82,7 +82,7 @@
       "area": "Mathematics",
       "studyType": "MA",
       "startDate": "2009-01-01",
-      "endDate": "2010-04-15",
+      "endDate": "2010-05-15",
       "score": "",
       "courses": ["Nonlinear Programming", "Complex Analysis", "Topology", "Number Theory", "Actuarial Life Contingencies"]
     },
@@ -100,25 +100,83 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "R",
+        "Wolfram",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "Tech Stack",
+      "keywords": [
+        "Git",
+        "Jupyter (Anaconda)",
+        "Linux",
+        "Docker",
+        "PyCharm"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "SQL",
+        "XML",
+        "MongoDB",
+        "Cassandra",
+        "Neo4j",
+        "OrientDB"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "keywords": [
+        "NumPy",
+        "Pandas",
+        "RSutdio",
+        "Scrapy",
+        "BeautifulSoup",
+        "StatsModel"
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "keywords": [
+        "Tableau",
+        "shiny",
+        "ggplot2",
+        "Plotly",
+        "Dash",
+        "Looker Studio"
+      ]
+    },
+    {
+      "name": "Geospatial Analysis",
+      "keywords": [
+        "geopandas",
+        "follium",
+        "ArcGIS"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "SciKit-Learn",
+        "NLTK",
+        "Scipy",
+        "PyTorch",
+        "XGBoost"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Utility Disconnections Dashboard",
+      "summary": "Creating a public facing, geospatial dashboard to track utility disconnections across the US using Python, Leaflet, and Dash.",
+      "startDate": "2022-10-01",
+      "endDate": "",
+      "url": "https://utilitydisconnections.org"
     }
   ]
 }
